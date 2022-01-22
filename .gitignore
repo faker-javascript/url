@@ -1,0 +1,14 @@
+# Global
+node_modules/
+coverage
+package-lock.json
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
+# phpstorm
+.idea/*
